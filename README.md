@@ -14,7 +14,7 @@ Python
 # Register No: Safeeq Fazil.A
 # Developed By: 212222240086
 # 1-Norm of a Matrix
-```
+
 import numpy as np
 
 mat= np.array(eval(input()))
