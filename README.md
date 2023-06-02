@@ -64,15 +64,15 @@ print(Norm_of_matrix)
 
 ```
 ## Output:
-### 1-Norm of a Matrix
+## 1-Norm of a Matrix
 ![exp 7 1](https://github.com/Safeeq-Fazil/Norm-of-a-matrix/assets/118680361/14f59cea-b25a-4f8d-a779-f1e2017f2d01)
 
 
-### 2-Norm of a Matrix
+## 2-Norm of a Matrix
 ![exp 7 2](https://github.com/Safeeq-Fazil/Norm-of-a-matrix/assets/118680361/9547b155-6a37-4fbb-bcf7-9c26cc983015)
 
 
-### Infinity Norm of a Matrix
+## Infinity Norm of a Matrix
 ![exp 7 3](https://github.com/Safeeq-Fazil/Norm-of-a-matrix/assets/118680361/5b6f9f29-d8da-4560-ac38-732b13d7bf9d)
 
 
