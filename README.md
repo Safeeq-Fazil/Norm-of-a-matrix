@@ -27,7 +27,6 @@ print(Norm_of_matrix)
 
 
 # 2-Norm of a Matrix
-```
 '''
 Program to find 2-norm of a matrix.
 Developed by: Safeeq Fazil.A
@@ -59,10 +58,6 @@ Norm_of_matrix = "{:.2f}".format(ans)
 print(Norm_of_matrix)
 ```
 
-
-
-
-```
 ## Output:
 ## 1-Norm of a Matrix
 ![exp 7 1](https://github.com/Safeeq-Fazil/Norm-of-a-matrix/assets/118680361/14f59cea-b25a-4f8d-a779-f1e2017f2d01)
